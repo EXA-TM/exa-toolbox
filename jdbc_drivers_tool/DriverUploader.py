@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 # 1. Download this file [1]
 # 2. Run the following command in a terminal:
-#  python DriverUploading.py --username '<username>' --hostPortAndCluster '<host>:<port>/<cluster>/' --pathToDriver '/path/to/the/driver/folder/' --driverName '<driver name>' --driverMainClass '<driver main class>' --driverPrefix '<driver prefix>:'
+#  python3 DriverUploading.py --username '<username>' --hostPortAndCluster '<host>:<port>/<cluster>/' --pathToDriver '/path/to/the/driver/folder/' --driverName '<driver name>' --driverMainClass '<driver main class>' --driverPrefix '<driver prefix>:'
 # 3. Input an EXAoperations password.
 
 # [1]: https://raw.githubusercontent.com/exasol/exa-toolbox/master/jdbc_drivers_tool/DriverUploader.py
